@@ -1,0 +1,4 @@
+name: "UWHealth CodeQL config"
+packs:
+  actions:
+    - uwhealth/trusted-actions-owners
